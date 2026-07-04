@@ -1,0 +1,7 @@
+D:\Proj\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Proj\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Proj\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Proj\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Proj\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Proj\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
